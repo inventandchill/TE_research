@@ -2,6 +2,8 @@
 
 # Team 3.14
 
+Source code: https://nbviewer.org/github/inventandchill/TE_research/blob/main/Praise_charts.ipynb
+
 *Thanks to **teodoro.criscione#0572** for sharing python parser of TE praise data*
 
 ### Measuring system healthiness generally
