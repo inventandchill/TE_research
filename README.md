@@ -4,11 +4,15 @@
 
 Source code: https://nbviewer.org/github/inventandchill/TE_research/blob/main/Praise_charts.ipynb
 
-*Thanks to **teodoro.criscione#0572** for sharing the python parser for TE praise data*
+*Thanks to Teodoro **teodoro.criscione#0572** for sharing the python parser for TE praise data*
 
-*Thanks to **ygg_anderson#4998** for idea to exlude iviangita from dataset*
+*Thanks to Shawn **ygg_anderson#4998** for idea to exlude iviangita from dataset*
 
-*Thanks to **🐙 octopus#5508** for idea to use log of data*
+*Thanks to Andrew **🐙 octopus#5508** for idea to use log of data*
+
+*Thanks to Angela **akrtws (TE Academy)#4246** for idea to check relationship between amount Praised and Received* 
+
+*Thanks to Livia **liviade#1387** for positive and useful feedback* 
 
 ### Measuring system healthiness generally
 For deeply measuring system healthiness, we need to create visual representation of data using different methods. 
