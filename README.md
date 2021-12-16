@@ -8,7 +8,7 @@ Source code: https://nbviewer.org/github/inventandchill/TE_research/blob/main/Pr
 
 *Thanks to Shawn **ygg_anderson#4998** for idea to exlude iviangita from dataset*
 
-*Thanks to Andrew **🐙 octopus#5508** for idea to use log of data*
+*Thanks to **🐙 octopus#5508** for idea to use log of data*
 
 *Thanks to Angela **akrtws (TE Academy)#4246** for idea to check relationship between amount Praised and Received* 
 
