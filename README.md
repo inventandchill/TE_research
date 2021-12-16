@@ -6,6 +6,10 @@ Source code: https://nbviewer.org/github/inventandchill/TE_research/blob/main/Pr
 
 *Thanks to **teodoro.criscione#0572** for sharing the python parser for TE praise data*
 
+*Thanks to **ygg_anderson#4998** for idea to exlude iviangita from dataset*
+
+*Thanks to **🐙 octopus#5508** for idea to use log of data*
+
 ### Measuring system healthiness generally
 For deeply measuring system healthiness, we need to create visual representation of data using different methods. 
 
@@ -13,6 +17,7 @@ For deeply measuring system healthiness, we need to create visual representation
 
 - Is there any imbalance and whale-behaviour in the Praise and IH flow distribution? 
 - How does IH get distributed in general and for largest Praise sender? Is it like normal distribution or skewed 
+- Is there relationship between amount of praised and amount of received for IH and count of events 
 
 ### Analysis
 We use python to create **Flow diagram (Sankey)** for 2 types of data:
@@ -83,12 +88,33 @@ Histogram for **iviangita**
 
 ![](https://cdn.discordapp.com/attachments/911319098426814466/915605549440172082/iviangita_Praise_amount_histogram_for_Batch_3.png)
 
+Relationship between IH Praised and IH received. Relationship between amount of events Praised and amount of events received.
+
+![](https://cdn.discordapp.com/attachments/907710579693748224/918544801404710912/IH_1.jpg)
+
+![](https://cdn.discordapp.com/attachments/907710579693748224/918544820325195786/IH_3.jpg)
+
+![](https://cdn.discordapp.com/attachments/907710579693748224/918544855943249930/events_1.jpg)
+
+![](https://cdn.discordapp.com/attachments/907710579693748224/918544874259755038/events_3.jpg)
+
+![](https://cdn.discordapp.com/attachments/921078273323188247/921078903211196446/Batch1_log_IH.jpg)
+
+![](https://cdn.discordapp.com/attachments/921078273323188247/921078950380339210/Batch3_log_IH.jpg)
+
+![](https://cdn.discordapp.com/attachments/921078273323188247/921079010442752040/Batch1_log_event.jpg)
+
+![](https://cdn.discordapp.com/attachments/921078273323188247/921079028725743726/Batch3_log_event.jpg)
+
+
 ### Analysis conclusion
 1. Flow charts created for praise count (events) and praise IH sum are pretty similar. This result corresponds with praise IH have near-to-skewed distribution
 2. On average, Top 10 praise senders are responsible  for more than 75% of IH
 3. On average, Top 15 praise receiver are responsible for around 70% of IH
 4. Except for `iviangita` other praise senders without big outliers for both metrics (praise count (events) and praise IH sum) 
 5. Distribution of IH of largest praise sender (iviangita) is correpond with distribution of IH of all praise senders, except Batch 2
+6. IH Praised and IH received by participant have strong relationship 
+7. Amount of event Praised and amount of event received by participant have strong relationship 
 
 
 ### Zoom out again, does this analysis suggest anything about system health? 
