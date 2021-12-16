@@ -65,6 +65,11 @@ Praise flow for Batch 3 - **Sum** of Praise
 ![](https://cdn.discordapp.com/attachments/911319098426814466/915537314732707870/Praise_flow_for_Batch_3_-_Sum_of_Praise.png)
 
 
+Praise flow for Batch 1 - **Sum** of Praise, exclude iviangita  
+![](https://cdn.discordapp.com/attachments/916006305737605140/916292468515930152/Praise_flow_for_Batch_1_-_Sum_of_Praise_exclude_iviangita.png)
+
+Praise flow for Batch 3 - **Sum** of Praise, exclude iviangita  
+![](https://cdn.discordapp.com/attachments/916006305737605140/916294064045957190/Praise_flow_for_Batch_3_-_Sum_of_Praise_exclude_iviangita.png)
 
 Praise amount **histogram** for all 3 batches. Simple and zoomed
 
