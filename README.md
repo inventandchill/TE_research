@@ -14,6 +14,12 @@ Source code: https://nbviewer.org/github/inventandchill/TE_research/blob/main/Pr
 
 *Thanks to Livia **liviade#1387** for positive and useful feedback* 
 
+### Data
+
+Batch 1: 2020-Sep-29 to 2021-May-07
+Batch 3: Most part from 2021-May-08 to 2021-Jul-11
+Batch 2: Few data 2020-Sep-23 to 2020-Nov-20
+
 ### Measuring system healthiness generally
 For deeply measuring system healthiness, we need to create visual representation of data using different methods. 
 
